@@ -1,5 +1,3 @@
-<!-- đầu vào: query, tham số cần lấy -->
-<!-- đầu ra: json mảng tham số lấy được -->
 <?php
 require "db.php";
 $query = $_POST['query'];
